@@ -1,2 +1,3 @@
 # SALivA
-Wiki for the SALivA Study
+
+### The Stress, Adversity, Living Microorganisms, and Autonomic Reactivity Study
